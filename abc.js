@@ -1,4 +1,4 @@
 function blueNred(){
-	console.log('blue');
+	console.log('blueI');
 	console.log("red");
 }
