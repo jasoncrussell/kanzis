@@ -18,3 +18,7 @@ https://www.amazon.com/EarthQuaker-Devices-Hummingbird-V4-Percussion/dp/B079X3PR
 https://www.amazon.com/Hourglass-Sanatorium-Blu-ray-Jan-Nowicki/dp/B00ZUCHX26/ref=sr_1_1?dchild=1&keywords=The+Hourglass+Sanatorium&qid=1623797941&sr=8-1
 
 https://www.amazon.com/Electro-Harmonix-Attack-Decay-Effects/dp/B07NL8Q2Z1/ref=sr_1_1?dchild=1&keywords=electro+harmonix+attack+decay&qid=1623798218&sr=8-1
+
+https://www.swatch.com/
+
+https://www.amazon.com/MOOER-Polyphonic-Guitar-Synth-Pedal/dp/B08139XPNL/ref=psdc_11968421_t2_B07NL8Q2Z1
