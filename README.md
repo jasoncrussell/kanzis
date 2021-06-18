@@ -22,3 +22,5 @@ https://www.amazon.com/Electro-Harmonix-Attack-Decay-Effects/dp/B07NL8Q2Z1/ref=s
 https://www.swatch.com/
 
 https://www.amazon.com/MOOER-Polyphonic-Guitar-Synth-Pedal/dp/B08139XPNL/ref=psdc_11968421_t2_B07NL8Q2Z1
+
+https://www.amazon.com/Polk-Audio-Surround-Performance-Subwoofer/dp/B0753ZLK2H/ref=sr_1_4?dchild=1&keywords=Polk+Audio+MagniFi+Max&qid=1624010306&sr=8-4
