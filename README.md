@@ -1,4 +1,23 @@
 
+---------------
+
+https://scrimba.com/learn-python-c03
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+https://developers.google.com/machine-learning/crash-course
+
+https://www.deeplearning.ai/courses
+
+https://huggingface.co/learn/llm-course/chapter1/1
+
+https://arxiv.org/pdf/2606.24937
+
+https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302?crid=VYTQJ781O7W7&dib=eyJ2IjoiMSJ9.w38xIfJKF9QZxJLAyIpAVoPriPwYPlaeLyKfAc_F__lYaVujGr1MZd81QH9XxAxvWYuE3yP4yheMHLPOeOZAPMBErRr_TW69zjjkaNMmg0rxzL3LFRlAFkOu5PeigWMz5BotEr6ftYDRE1hrGxrRK9mvNrJeXHjz6hbvki2IXmbq5OFVvgGeMDMdDv3-AcyVuimASSDhhR01Kg_HRxSs4XChb4ySbrinMPNCwpDbgJ8.VRmP0GPcWNJBBva7PLj6v9ZgcXN7Ppc2Oz9a9CNnQe4&dib_tag=se&keywords=ai+engineering&qid=1787950023&sprefix=ai+engineeri,aps,192&sr=8-3&ufe=app_do:amzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666&linkCode=sl2&tag=gratitudedriv-20&linkId=77ad90ff547fc0b86c9aa78b4fddf099&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl
+
+---------
+
+
 https://www.rareform.com/
 
 https://calamityware.com/
